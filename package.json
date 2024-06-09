@@ -2,7 +2,7 @@
   "name": "angular-definitive-guide-lessons",
   "version": "0.0.0",
   "stackblitz": {
-    "startCommand": "concurrently \"npm run start\" \"npx karma start karma.conf.js\""
+    "startCommand": "concurrently \"npm run start\" \"ng test\""
   },
   "scripts": {
     "ng": "ng",
